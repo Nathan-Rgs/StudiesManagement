@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.4415d57c.css",
-    "main.js": "/github-page/static/js/main.d681026b.js",
-    "static/media/check-mark.svg": "/github-page/static/media/check-mark.138356fcb47be7050b88.svg",
-    "index.html": "/github-page/index.html",
-    "main.4415d57c.css.map": "/github-page/static/css/main.4415d57c.css.map",
-    "main.d681026b.js.map": "/github-page/static/js/main.d681026b.js.map"
+    "main.css": "/StudiesManagement/static/css/main.7ea8b6c8.css",
+    "main.js": "/StudiesManagement/static/js/main.d681026b.js",
+    "static/media/check-mark.svg": "/StudiesManagement/static/media/check-mark.138356fcb47be7050b88.svg",
+    "index.html": "/StudiesManagement/index.html",
+    "main.7ea8b6c8.css.map": "/StudiesManagement/static/css/main.7ea8b6c8.css.map",
+    "main.d681026b.js.map": "/StudiesManagement/static/js/main.d681026b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4415d57c.css",
+    "static/css/main.7ea8b6c8.css",
     "static/js/main.d681026b.js"
   ]
 }
