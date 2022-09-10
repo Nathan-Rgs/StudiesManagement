@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/StudiesManagement/static/css/main.7ea8b6c8.css",
-    "main.js": "/StudiesManagement/static/js/main.d681026b.js",
-    "static/media/check-mark.svg": "/StudiesManagement/static/media/check-mark.138356fcb47be7050b88.svg",
-    "index.html": "/StudiesManagement/index.html",
-    "main.7ea8b6c8.css.map": "/StudiesManagement/static/css/main.7ea8b6c8.css.map",
-    "main.d681026b.js.map": "/StudiesManagement/static/js/main.d681026b.js.map"
+    "main.css": "/StudiesManagementPlatform/static/css/main.89151520.css",
+    "main.js": "/StudiesManagementPlatform/static/js/main.d681026b.js",
+    "static/media/check-mark.svg": "/StudiesManagementPlatform/static/media/check-mark.138356fcb47be7050b88.svg",
+    "index.html": "/StudiesManagementPlatform/index.html",
+    "main.89151520.css.map": "/StudiesManagementPlatform/static/css/main.89151520.css.map",
+    "main.d681026b.js.map": "/StudiesManagementPlatform/static/js/main.d681026b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ea8b6c8.css",
+    "static/css/main.89151520.css",
     "static/js/main.d681026b.js"
   ]
 }
